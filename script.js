@@ -26,6 +26,6 @@ else if(age1 == age2) {
 }
 
 else {
-  console.log (" eles morreram :´( ")
+  console.log ("Eles morreram :´( ")
 }
 // else existe, caso respodam diferente a um número
