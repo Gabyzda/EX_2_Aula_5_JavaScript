@@ -3,7 +3,7 @@
 
 let name1 = prompt ("Digite o nome da primeira pessoa")
 let age1 = Number(prompt ("Digite a idade da primeira pessoa"))
-let name2 = prompt ("Digite o nome da primeira pessoa") 
+let name2 = prompt ("Digite o nome da segunda pessoa") 
 let age2 = Number(prompt ("Digite a idade da segunda pessoa"))
 
 console.log ("Registros de " + name1 + " e " + name2)
