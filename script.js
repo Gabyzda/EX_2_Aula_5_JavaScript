@@ -29,3 +29,23 @@ else {
   console.log ("Eles morreram :´( ")
 }
 // else existe, caso respodam diferente a um número
+
+
+// Ayuda de prof Génesys Aula 04-07-2022
+// Primeira parte pegar dados de dois usuarios e comparar as idades deles
+//INICIO
+// let nomes = [];
+// let idades = [];
+
+// for (let contador=0; contador <=1; contador++){
+//     let nome = prompt("Digite seu nome");
+//     nomes.push(nome);
+//     let idade = Number(prompt("Digite sua idade")); 
+//     idades.push(idade);     
+// }
+// if(idades[0] > idades[1]){
+//     console.log(`${nomes[0]} é mas velho do que ${nomes[1]}`)
+// }else{
+//     console.log(`${nomes[1]} é mas velho do que ${nomes[0]}`)
+// }
+//FIM
